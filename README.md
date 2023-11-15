@@ -9,12 +9,11 @@
 - [stevenbird, vader lexikon für Textanalyse](https://github.com/nltk/nltk_data/tree/gh-pages/packages/sentiment)
   
 **Voraussetzungen**
-- Die App ermöglicht eine automatisierte One-Click Erstellung einer Präsentation und entlastet somit deine Mitarbeiter 
+- Die App ermöglicht eine automatisierte One-Click Erstellung einer Mindmap
 - Die Installation der App ist kinderleicht und basiert auf der weit verbreiteten Programmiersprache Python. Du kannst die aktuelle Version auf python.org laden, um die App einzurichten. Zusätzlich wird ein OpenAI Konto benötigt mit API Key
 - Hilfe: mail@finii-apps.de
 
 **Anwendung**
-- Die App wird über mit Automator aufgerufen und ausgeführt
 - Requirements: Die Module, die du installieren musst, findest du in der requirements.txt. Bitte achte darauf, dass du die richtigen Versionsnummern der Module installierst, die in der requirements.txt angegeben sind
 
 **Output**
