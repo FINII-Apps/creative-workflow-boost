@@ -5,8 +5,7 @@
 # Creative Workflow Boost
 
 **Quellverweise & Contributions**
-- [Ashley Poon auf Medium](https://medium.com/analytics-vidhya/using-natural-language-processing-in-python-to-conduct-your-own-social-listening-f0e6bda47aee)
-- [stevenbird, vader lexikon für Textanalyse](https://github.com/nltk/nltk_data/tree/gh-pages/packages/sentiment)
+- [Original: Jacob Ferus, Medium](https://levelup.gitconnected.com/ai-generated-mind-maps-with-the-chatgpt-api-in-python-and-streamlit-bad9cd63f402)
   
 **Voraussetzungen**
 - Die App ermöglicht eine automatisierte One-Click Erstellung einer Mindmap
