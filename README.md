@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://www.finii-apps.de/img/finii_logo.png" width="150" alt="Nerd Fonts Logo" />
+  Open Source Apps
 </h1>
 
 # Creative Workflow Boost
